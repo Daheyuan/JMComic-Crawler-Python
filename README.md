@@ -1,4 +1,4 @@
-# Python API For JMComic (禁漫天堂)
+# Python API For JMComic (禁漫天堂)1
 
 封装了一套可用于爬取JM的Python API.
 
